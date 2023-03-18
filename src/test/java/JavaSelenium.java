@@ -70,14 +70,15 @@ public class JavaSelenium {
 
         WebElement viewCart = driver.findElement(By.xpath("//button[contains(text(), 'View Cart')]"));
 
-        driver.manage().timeouts().pageLoadTimeout(10000, TimeUnit.MILLISECONDS);
-        driver.manage().timeouts().implicitlyWait(2000, TimeUnit.MILLISECONDS);
+        driver.manage().timeouts().pageLoadTimeout(15000, TimeUnit.MILLISECONDS);
 
         // JavaScriptExecutor is an interface that helps to execute JavaScript through Selenium Webdriver
         ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", viewCart);
 
 
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//button[contains(text(), 'View Cart')]")));
+
+        driver.manage().timeouts().implicitlyWait(3000, TimeUnit.MILLISECONDS);
 
         viewCart.click();
 
