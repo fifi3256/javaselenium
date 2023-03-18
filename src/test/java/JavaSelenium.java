@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit;
 
 public class JavaSelenium {
     @Test
-    public void WebDemo() throws InterruptedException {
+    public void WebDemo() {
 
         // Create WebDriver drives a browser natively, as a user would, either locally or on a remote machine using the Selenium server,
         // marks a leap forward in terms of browser automation.

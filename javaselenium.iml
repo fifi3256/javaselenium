@@ -54,13 +54,6 @@
     <orderEntry type="library" name="Maven: org.codehaus.mojo:animal-sniffer-annotations:1.14" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpclient:4.5.3" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.4.6" level="project" />
-    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-http-jdk-client:4.8.1" level="project" />
-    <orderEntry type="library" name="Maven: com.google.auto.service:auto-service-annotations:1.0.1" level="project" />
-    <orderEntry type="library" name="Maven: com.google.auto.service:auto-service:1.0.1" level="project" />
-    <orderEntry type="library" name="Maven: com.google.auto:auto-common:1.2" level="project" />
-    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-http:4.8.1" level="project" />
-    <orderEntry type="library" name="Maven: dev.failsafe:failsafe:3.3.0" level="project" />
-    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-json:4.8.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.testng:testng:7.7.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.beust:jcommander:1.82" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.webjars:jquery:3.6.1" level="project" />
