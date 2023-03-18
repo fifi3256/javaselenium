@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Maven: com.beust:jcommander:1.82">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/beust/jcommander/1.82/jcommander-1.82.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/beust/jcommander/1.82/jcommander-1.82-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/selenium-java-4.1.2" />
+      <root url="file://$MAVEN_REPOSITORY$" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/beust/jcommander/1.82/jcommander-1.82-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$MAVEN_REPOSITORY$" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/selenium-java-4.1.2" recursive="false" type="SOURCES" />
+  </library>
+</component>
